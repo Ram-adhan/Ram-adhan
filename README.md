@@ -22,7 +22,7 @@ Here is the web if you want to take a look,
 * https://ram-adhan.github.io/
 
 ### Led Clock
-This is my first usable IOT Project. Syncing Real-Time-Clock with NTP server from Google. Then, light-up the time in positioned LED to display the current time
+This is my first usable IOT Project. Syncing Real-Time-Clock with NTP server from Google. Then, light-up positioned LED to display the current time
 you can check the repository here:
 * https://github.com/Ram-adhan/led-clock
 
