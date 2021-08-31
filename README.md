@@ -5,7 +5,7 @@
 I'm interested in Mobile Development, and have experience in developing application with Kotlin and Flutter, also learning Python and Javascript for the Backend side. 
 Another programming languange I have tried is C, while develop with microcontroller and IOT device.
 
-### This is my first published Mobile Application,
+### Lacak Resi is my first published Mobile Application,
 It is an app for tracking air waybill, using API from binderbyte.com
 <p float="left">
 <img src="https://user-images.githubusercontent.com/52147185/127768549-a28a10ba-be4e-4c02-8d94-c3025bb74b2b.gif" width="250" title="Cek Resi">
